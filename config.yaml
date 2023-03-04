@@ -1,0 +1,8 @@
+chatGPTAccountPool:
+    email: lngmsg@hotmail.es
+    password: Loveme1.1
+    isGoogleLogin: false
+chatPrivateTiggerKeyword: ""
+chatTiggerRule: ""
+openAIProxy: ""
+disableGroupMessage: false
