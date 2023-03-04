@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-    email: lngmsg@hotmail.es
-    password: Loveme1.1
+    email: 
+    password: 
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 chatTiggerRule: ""
